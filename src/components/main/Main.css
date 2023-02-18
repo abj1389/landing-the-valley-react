@@ -1,0 +1,16 @@
+.main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 80vh;
+}
+
+.main__title{
+    font-size: 70px;
+}
+
+.main__text{
+    max-width: 500px;
+    text-align: center;
+}

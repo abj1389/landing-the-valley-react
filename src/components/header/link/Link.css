@@ -1,0 +1,13 @@
+.header__link{
+    text-decoration: none;
+    color: purple;
+    font-weight: bold;
+    margin: 10px 20px;
+}
+
+.header__link--buttoned{
+    color: white;
+    background-color: purple;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
